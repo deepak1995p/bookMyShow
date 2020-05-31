@@ -1,4 +1,4 @@
-<script>
+
     var pvr = {
         pv: function() {
             var quantity = prompt('How many tickets do you want? ');
@@ -73,4 +73,3 @@
     let person1 = new bookMyShow(pvr, MegaCinema, FunCinema);
     person1.booking();
     person1.ticket();
-</script>
